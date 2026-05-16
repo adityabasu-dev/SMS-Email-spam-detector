@@ -3,6 +3,8 @@
 A machine learning web app that classifies messages as spam or not spam.
 Built with BernoulliNB and deployed using Streamlit.
 
+## Live Demo
+[SMS/Email Spam Detector](https://sms-email-spam-detector-stmjr5ukhavg2bnuramo5d.streamlit.app/)
 
 ## Results
 
